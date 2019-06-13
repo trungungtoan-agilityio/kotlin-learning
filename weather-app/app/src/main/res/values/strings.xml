@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinWeather</string>
+    <string name="title_data">Module Title</string>
+</resources>
